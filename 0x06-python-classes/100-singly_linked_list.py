@@ -53,7 +53,7 @@ class SinglyLinkedList:
         ordered numerical position.
 
         Args:
-            value (Node): The new Node to insert.
+            value (int): The value of the new Node to insert.
         """
         new = Node(value)
         if self.__head is None:
@@ -77,5 +77,5 @@ class SinglyLinkedList:
         while tmp is not None:
             values.append(str(tmp.data))
             tmp = tmp.next_node
-        return ('\n'.join(values))
+        return '\n'.join(values)
 
