@@ -34,8 +34,8 @@ def nqueens(N):
     """
     Main function to solve the N-Queens problem.
     """
-    if not N.isdigit() or int(N) <= 0:
-        print("N must be a positive integer")
+    if not N.isdigit():
+        print("N must be a number")
         sys.exit(1)
 
     N = int(N)
