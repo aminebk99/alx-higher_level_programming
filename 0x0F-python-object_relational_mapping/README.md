@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Object-Relational Mapping using SQLAlchemy and MySQLDB</title>
-    <style>
+<style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -54,8 +48,7 @@
             margin-top: 0;
         }
     </style>
-</head>
-<body>
+
     <div class="container">
         <h1>Python Object-Relational Mapping using SQLAlchemy and MySQLDB</h1>
         <p>Welcome to your guide for utilizing SQLAlchemy and MySQLDB for seamless object-relational mapping in Python.</p>
@@ -91,6 +84,5 @@
             <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
         </div>
     </div>
-</body>
-</html>
+
 
