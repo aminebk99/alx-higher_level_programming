@@ -30,14 +30,4 @@
   For detailed usage examples, refer to the documentation of SQLAlchemy and
   MySQLDB.
 </p>
-<h2>Contributing</h2>
-<p>
-  Contributions are welcome! If you find any issues or have suggestions for
-  improvements, please open an issue or create a pull request on GitHub.
-</p>
-<h2>License</h2>
-<p>
-  This project is licensed under the MIT License - see the
-  <a href="LICENSE">LICENSE</a> file for details.
-</p>
 
