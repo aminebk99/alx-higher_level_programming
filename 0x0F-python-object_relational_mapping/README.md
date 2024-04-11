@@ -1,16 +1,11 @@
 <div class="container">
         <h1>Python Object-Relational Mapping using SQLAlchemy and MySQLDB</h1>
         <p>Welcome to your guide for utilizing SQLAlchemy and MySQLDB for seamless object-relational mapping in Python.</p>
-
-        <div class="installation">
             <h2>Installation</h2>
             <p>To get started, ensure you have Python and pip installed. Then, you can install the required packages:</p>
             <code>
                 pip install SQLAlchemy MySQL-python
             </code>
-        </div>
-
-        <div class="usage">
             <h2>Usage</h2>
             <p>Follow these steps to start using SQLAlchemy with MySQLDB:</p>
             <ol>
@@ -21,17 +16,9 @@
                 <li>Perform CRUD operations on your database through your Python classes.</li>
             </ol>
             <p>For detailed usage examples, refer to the documentation of SQLAlchemy and MySQLDB.</p>
-        </div>
-
-        <div class="contributing">
             <h2>Contributing</h2>
             <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on GitHub.</p>
-        </div>
-
-        <div class="license">
             <h2>License</h2>
             <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-        </div>
+        
     </div>
-
-
